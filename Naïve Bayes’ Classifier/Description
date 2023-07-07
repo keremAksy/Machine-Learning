@@ -1,0 +1,4 @@
+We are given a multivariate classification data set, which contains 35000 clothing
+images of size 28 pixels × 28 pixels (i.e., 784 pixels). These images are from five distinct 
+classes, namely, T-shirt, Dress, Coat, Shirt, and Bag. The figure below shows five sample
+clothing images from each class.
